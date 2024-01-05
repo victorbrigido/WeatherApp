@@ -2,7 +2,13 @@
 
 **Descrição Geral:**
 O aplicativo de previsão do tempo é uma solução intuitiva e elegante que oferece informações climáticas precisas com base na localização do usuário. Desenvolvido utilizando Swift e SwiftUI, o aplicativo utiliza a API do OpenWeatherMap para fornecer dados em tempo real sobre temperatura, vento, umidade e outras condições climáticas.
+
+
 <img src="https://github.com/victorbrigido/WeatherApp/assets/110338761/57f5ac2d-a93a-4d87-bf90-b971e7b9e91a" alt="IMG_0751" width="200" />
+
+
+
+
 <img src="https://github.com/victorbrigido/WeatherApp/assets/110338761/2deb51d0-b994-4a5c-b5f9-10c941e41a44" alt="IMG_0752" width="200" />
 
 
@@ -12,9 +18,7 @@ O aplicativo de previsão do tempo é uma solução intuitiva e elegante que ofe
 - **Carregamento Assíncrono de Dados:** O app emprega o uso eficiente de operações assíncronas para carregar os dados meteorológicos da API, garantindo que a interface permaneça responsiva durante as atualizações.
 - **Personalização da Exibição dos Dados:** As informações climáticas são apresentadas de forma organizada e acessível, incluindo detalhes sobre temperatura, umidade, velocidade do vento e muito mais, permitindo uma fácil compreensão das condições climáticas atuais.
 
-<div align="center">
-  <iframe src="https://github.com/victorbrigido/WeatherApp/assets/110338761/5bb23c2e-2f24-4a5e-ac85-5e45064f395e" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe>
-</div>
+https://github.com/victorbrigido/WeatherApp/assets/110338761/5bb23c2e-2f24-4a5e-ac85-5e45064f395e
 
 
 **Tecnologias e Skills Utilizadas:**
