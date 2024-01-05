@@ -12,6 +12,9 @@ O aplicativo de previsão do tempo é uma solução intuitiva e elegante que ofe
 <img src="https://github.com/victorbrigido/WeatherApp/assets/110338761/2deb51d0-b994-4a5c-b5f9-10c941e41a44" alt="IMG_0752" width="200" />
 
 
+
+
+
 **Principais Recursos:**
 - **Localização Automática:** Através da integração com o CoreLocation, o aplicativo detecta automaticamente a localização do usuário para exibir informações precisas sobre o clima local.
 - **Interface Intuitiva e Esteticamente Agradável:** Utilizando SwiftUI, o aplicativo apresenta uma interface moderna e responsiva, garantindo uma experiência visual atraente para os usuários.
